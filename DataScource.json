@@ -1,0 +1,192 @@
+{
+    "train":
+    {
+        "Duong_1":
+        {
+            "cam_1":
+            {
+                "_id": "notranglong - lequangdinh",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=5d8cd614766c88001718894a&camLocation=L%C3%AA%20Quang%20%C4%90%E1%BB%8Bnh%20-%20N%C6%A1%20Trang%20Long&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            },
+
+            "cam_2": 
+            {
+                "_id": "notranglong - nguyenxi",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=5a606a0f8576340017d0661e&camLocation=N%C6%A1%20Trang%20Long%20-%20Nguy%E1%BB%85n%20X%C3%AD&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",       
+                "amount": 0
+            }
+        },
+
+        "Duong_2":
+        {
+            "cam_1":
+            {
+                "_id": "phanvantri - leductho",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=6623ee176f998a001b25270c&camLocation=Phan%20V%C4%83n%20Tr%E1%BB%8B%20-%20L%C3%AA%20%C4%90%E1%BB%A9c%20Th%E1%BB%8D&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            },
+
+            "cam_2":
+            {
+                "_id": "ungvankhiem - nguyengiatri",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=586e2995f9fab7001111b0b5&camLocation=Ung%20V%C4%83n%20Khi%C3%AAm%20-%20Nguy%E1%BB%85n%20Gia%20Tr%C3%AD%20(D2)&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            }
+        },
+
+        "Duong_3":
+        {
+            "cam_1":
+            {
+                "_id": "haibatrung - nguyendinhchieu",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=662b83381afb9c00172dcf88&camLocation=Hai%20B%C3%A0%20Tr%C6%B0ng%20-%20Nguy%E1%BB%85n%20%C4%90%C3%ACnh%20Chi%E1%BB%83u&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            },
+
+            "cam_2":
+            {
+                "_id": "namkikhoinghia - lytutrong",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=5deb576d1dc17d7c5515ad0b&camLocation=Nam%20K%E1%BB%B3%20Kh%E1%BB%9Fi%20Ngh%C4%A9a%20-%20L%C3%BD%20T%E1%BB%B1%20Tr%E1%BB%8Dng&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            }
+        },
+
+        "Duong_4":
+        {
+            "cam_1": 
+            {
+                "_id": "lethanhton - dongkhoi",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=662b843d1afb9c00172dd02d&camLocation=L%C3%AA%20Th%C3%A1nh%20T%C3%B4n%20-%20%C4%90%E1%BB%93ng%20Kh%E1%BB%9Fi&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            },
+
+            "cam_2": 
+            {
+                "_id": "tranquankhai - dinhtienhoang",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=662b81721afb9c00172dcc44&camLocation=%C4%90inh%20Ti%C3%AAn%20Ho%C3%A0ng%20-%20Tr%E1%BA%A7n%20Quang%20Kh%E1%BA%A3i&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            }
+        },
+
+        "Duong_5":
+        {
+            "cam_1": 
+            {
+                "_id": "dienbienphu - pasteur",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=5deb576d1dc17d7c5515ad02&camLocation=%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%20-%20Pasteur&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            },
+
+            "cam_2": 
+            {
+                "_id": "nguyenthiminhkhai - nguyenbinhkhiem",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=631828cac9eae60017a19f50&camLocation=Nguy%E1%BB%85n%20Th%E1%BB%8B%20Minh%20Khai%20-%20Nguy%E1%BB%85n%20B%E1%BB%89nh%20Khi%C3%AAm%201&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            }
+        },
+
+        "Duong_6":
+        {
+            "cam_1": 
+            {
+                "_id": "haibatrung - lychienthang",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=5deb576d1dc17d7c5515acff&camLocation=Hai%20B%C3%A0%20Tr%C6%B0ng%20-%20L%C3%BD%20Ch%C3%ADnh%20Th%E1%BA%AFng&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            },
+
+            "cam_2": 
+            {
+                "_id": "dinhbolinh - bachdang1",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=5a8253615058170011f6eabf&camLocation=%C4%90inh%20B%E1%BB%99%20L%C4%A9nh%20-%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng%201&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            }
+        },
+
+        "Duong_7":
+        {
+            "cam_1": 
+            {
+                "_id": "doxuanhop - tayhoa",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=63b549b8bfd3d90017ea782c&camLocation=%C4%90%E1%BB%97%20Xu%C3%A2n%20H%E1%BB%A3p%20-%20T%C3%A2y%20H%C3%B2a&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            },
+
+            "cam_2": 
+            {
+                "_id": "phamvandong - duong20",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=5d8cd7bb766c880017188952&camLocation=Ph%E1%BA%A1m%20V%C4%83n%20%C4%90%E1%BB%93ng%20-%20%C4%90%C6%B0%E1%BB%9Dng%2020%20(h%C6%B0%E1%BB%9Bng%20%C4%91i%20Th%E1%BB%A7%20%C4%90%E1%BB%A9c)&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            }
+        },
+
+        "Duong_8":
+        {
+            "cam_1": 
+            {
+                "_id": "hoangminhgiam - dangvansam",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=6623e88c6f998a001b25248b&camLocation=Ho%C3%A0ng%20Minh%20Gi%C3%A1m%20-%20%C4%90%C4%83ng%20V%C4%83n%20S%C3%A2m&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            },
+
+            "cam_2": 
+            {
+                "_id": "phoquang - huynhkhanhlan",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=58df4adedc195800111e04b4&camLocation=Ph%E1%BB%95%20Quang%20-%20Hu%E1%BB%B3nh%20Lan%20Khanh&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            }
+        },
+
+        "Duong_9":
+        {
+            "cam_1": 
+            {
+                "_id": "hoangvanthu - so255",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=662b58791afb9c00172d9107&camLocation=255%20Ho%C3%A0ng%20V%C4%83n%20Th%E1%BB%A5&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            },
+
+            "cam_2": 
+            {
+                "_id": "conghoa - uttich",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=587476e3b807da0011e33cee&camLocation=C%E1%BB%99ng%20H%C3%B2a%20-%20%C3%9At%20T%E1%BB%8Bch%201&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            }
+        },
+
+        "Duong_10":
+        {
+            "cam_1": 
+            {
+                "_id": "hoangvanthu - uttich",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=5d8cdb4b766c880017188966&camLocation=Ho%C3%A0ng%20V%C4%83n%20Th%E1%BB%A5%20-%20%C3%9At%20T%E1%BB%8Bch&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            },
+
+            "cam_2": 
+            {
+                "_id": "hoangvanthu - levansi",
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=587c8661b807da0011e33d43&camLocation=L%C3%AA%20V%C4%83n%20S%E1%BB%B9%20-%20Ho%C3%A0ng%20V%C4%83n%20Th%E1%BB%A5&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 0
+            }
+        }
+    },
+
+    "test":
+    {
+        "Duong_1": 
+        {
+            "cam_1": 
+            {
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=6623e2e16f998a001b252233&camLocation=Hai%20B%C3%A0%20Tr%C6%B0ng%20-%20Tr%E1%BA%A7n%20Qu%E1%BB%91c%20To%E1%BA%A3n&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 1
+            },
+
+            "cam_2": 
+            {
+                "url": "https://giaothong.hochiminhcity.gov.vn/expandcameraplayer/?camId=58e49ff8d9d6200011e0b9d4&camLocation=Nam%20K%E1%BB%B3%20Kh%E1%BB%9Fi%20Ngh%C4%A9a%20-%20Tr%E1%BA%A7n%20Qu%E1%BB%91c%20To%E1%BA%A3n&camMode=camera&videoUrl=https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8",
+                "amount": 1
+            }
+        }
+    }
+}
